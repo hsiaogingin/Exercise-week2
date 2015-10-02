@@ -10,10 +10,10 @@ void setup()
 {
   size(640,382);
   background(255);
-  cat=loadImage("E3pic/cat.jpg");
-  rat=loadImage("E3pic/rat.jpg");
-  water=loadImage("E3pic/water.jpg");
-  bird=loadImage("E3pic/bird.jpg");
+  cat=loadImage("E3Pic/cat.jpg");
+  rat=loadImage("E3Pic/rat.jpg");
+  water=loadImage("E3Pic/water.jpg");
+  bird=loadImage("E3Pic/bird.jpg");
 }
 
 void draw()
